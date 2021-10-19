@@ -19,10 +19,10 @@ import androidx.navigation.fragment.FragmentNavigatorExtras
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.unsplashexample.R
 import com.google.android.material.transition.platform.MaterialElevationScale
-import com.tapi.android.example.R
 import com.example.unsplashexample.data.PhotoItemView
-import com.tapi.android.example.databinding.FragmentHomeBinding
+import com.example.unsplashexample.databinding.FragmentHomeBinding
 import com.tapi.android.example.event.OnActionCallBack
 import com.tapi.android.example.event.OnCallBackToFragment
 import com.tapi.android.example.functions.bases.BaseFragment

@@ -4,8 +4,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.unsplashexample.data.PhotoItemView
-import com.tapi.android.example.databinding.ItemPhotoBinding
+import com.example.unsplashexample.databinding.ItemPhotoBinding
 import com.tapi.android.example.event.OnActionCallBack
+import com.tapi.android.example.util.Utils.Companion.loadImageHolder
 
 class ItemHolder(
     private val binding: ItemPhotoBinding,

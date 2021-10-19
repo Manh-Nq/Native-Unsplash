@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.tapi.android.example.databinding.AgainItemBinding
+import com.example.unsplashexample.databinding.AgainItemBinding
 import com.tapi.android.example.functions.home.screen.HomeModel
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

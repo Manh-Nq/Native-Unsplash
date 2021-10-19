@@ -5,7 +5,7 @@ import android.net.ConnectivityManager
 import android.view.View
 import android.widget.ImageView
 import com.bumptech.glide.Glide
-import com.tapi.android.example.R
+import com.example.unsplashexample.R
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 

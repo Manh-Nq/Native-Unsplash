@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.tapi.android.example.databinding.FrgMainBinding
+import com.example.unsplashexample.databinding.FrgMainBinding
 import com.tapi.android.example.functions.bases.BaseFragment
 import com.tapi.android.example.util.Constance
 

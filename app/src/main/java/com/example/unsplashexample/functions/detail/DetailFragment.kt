@@ -17,9 +17,9 @@ import com.bumptech.glide.load.DataSource
 import com.bumptech.glide.load.engine.GlideException
 import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
+import com.example.unsplashexample.R
+import com.example.unsplashexample.databinding.FragmentDetailBinding
 import com.google.android.material.transition.platform.MaterialContainerTransform
-import com.tapi.android.example.R
-import com.tapi.android.example.databinding.FragmentDetailBinding
 import com.tapi.android.example.event.OnCallBackToFragment
 import com.tapi.android.example.functions.bases.BaseFragment
 import com.tapi.android.example.themeColor
